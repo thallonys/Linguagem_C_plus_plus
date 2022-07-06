@@ -1,7 +1,0 @@
-O computador entende uma linguagem de baixo nível.
-
-O C++ é linguagem de médio nível.
-    Porém tem um nível suficiente para nós entendermos o que está escrito.
-
-Entre a linguagem de alto nível e a de baixo nível há um compilador. Este faz a transformação da linguagem de alto nível para a linguagem baixo nível.
-
